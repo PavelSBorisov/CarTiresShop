@@ -1,0 +1,27 @@
+.headers {
+	text-align: center;
+	
+}
+
+head {
+	background-color: black;
+	width: 300px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
+body {
+	background-color: black;
+}
+
+.models {
+	text-align: center;
+}
+
+.images {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300;
+	height: 300px;
+}
