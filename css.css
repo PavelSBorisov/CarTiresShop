@@ -4,18 +4,19 @@
 }
 
 head {
-	background-color: black;
+	background-color: #b5a397;
 	width: 300px;
 	border: 25px solid green;
 	padding: 25px;
 	margin: 25px;
 }
 body {
-	background-color: black;
+	background-color: #b5a397;
 }
 
 .models {
 	text-align: center;
+	
 }
 
 .images {
@@ -25,3 +26,38 @@ body {
 	width: 300;
 	height: 300px;
 }
+
+.navigationbar { 
+	background-color: #6a5750;
+	overflow: hidden;
+}
+
+.navigationbar a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.navigationbar a.current {
+	background-color: #30231d;
+	color: white;
+}
+
+.navigationbar a:hover {
+	background-color: #f6f1ed;
+	color: black;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
