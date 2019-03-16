@@ -27,14 +27,6 @@ body {
 	height: 300px;
 }
 
-.slideimages {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 300;
-	height: 300px;
-}
-
 .navigationbar { 
 	background-color: #6a5750;
 	overflow: hidden;
@@ -69,6 +61,7 @@ body {
 
 
 #slideshow .slide img {
+	padding: 100px;
 	height: 300px;
 	width: auto;
 }
